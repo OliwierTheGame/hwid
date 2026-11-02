@@ -29,3 +29,19 @@ Szkoda mi było tapicerki, ale i tak wsiadałem cały mokry. Wystarczył ręczni
 5. Okładka: kadr z pierwszej sekundy (z napisem hooka).
 
 Ten sam plik tego samego dnia wrzuć też na Instagram Reels i Facebook Reels (tam też zaznacz etykietę AI).
+
+---
+
+# NOWE: wersje storytime (bez lektora, bez ceny – rekomendowane na start)
+Dodaj w TikToku popularny dźwięk z trendów (te klipy są bez dźwięku). Etykieta AI + „Twoja marka” jak wyżej.
+
+## storytime_historia.mp4 (Problem z życia, POV) – 22 s
+**Opis:** kto wsiada do auta prosto po treningu, ten wie 😮‍💨 #siłownia #gym #auto #POV #trening
+
+## storytime_test.mp4 (Zaskakujące odkrycie) – 17 s
+**Opis:** tak, to było specjalnie 💧 #auto #samochód #test #siłownia #lifehack
+
+## storytime_blad.mp4 (Błędny sposób → kontrast) – 19 s
+**Opis:** ręcznik z łazienki to nie jest rozwiązanie 😅 #siłownia #auto #gym #trening #samochód
+
+Kolejność na start: historia (dziś 17–18) → test (jutro 12) → blad (jutro 20). Wersje z lektorem (hook1–3) zostaw na kolejne dni jako test: storytime vs lektor.
