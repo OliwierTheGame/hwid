@@ -2,25 +2,25 @@
 
 Ten sam plik tego samego dnia na wszystkie 3 platformy. Przy każdym: **etykieta AI = WŁĄCZ**, **ujawnienie komercyjne = „Twoja marka”**, link **suchyfotel.pl** w bio.
 
-Klipy z lektorem: dodaj cichy dźwięk z trendów (muzyka 5–10%, oryginał 100%). Klipy *storytime_*: bez dźwięku – dodaj trend (100%).
+**Wrzucaj pliki z folderu `final/`** – mają już lektora i własną muzykę w tle (bez praw osób trzecich, więc nic nie zostanie wyciszone). Opcjonalnie dodaj w aplikacji dźwięk z trendów na 0–5% głośności (pomaga zasięgom), oryginał zostaw na 100%.
 
 | Dzień | Godz. | Plik | Format | Opis do wklejenia |
 |---|---|---|---|---|
-| Dzień 1 (wt 03.11) | 07:30 | `test_lektor.mp4` | Zaskakujące odkrycie (ciekawość) | tak, to było specjalnie 💧 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #siłownia #lifehack #test |
-| Dzień 1 (wt 03.11) | 13:00 | `historia_lektor.mp4` | Problem z życia (POV) | kto wsiada do auta prosto po treningu, ten wie 😮‍💨 Link w bio 👆 #siłownia #gym #auto #POV #trening |
-| Dzień 1 (wt 03.11) | 19:30 | `blad_lektor.mp4` | Błędny sposób (kontrast) | ręcznik z łazienki to nie jest rozwiązanie 😅 Napisz SUCHY w komentarzu, wyślę link 👇 #siłownia #auto #gym #trening #samochód |
-| Dzień 2 (śr 04.11) | 08:00 | `pies.mp4` | Problem z życia – właściciel psa | każdy psiarz zna ten widok po spacerze w deszczu 🐕 Link w bio 👆 #pies #psy #golden #auto #spacer |
-| Dzień 2 (śr 04.11) | 18:30 | `odp_zjezdza.mp4` | Odpowiedź na obiekcję | najczęstsza obawa przy ręczniku na fotel 👇 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #siłownia #gym #trening |
-| Dzień 3 (czw 05.11) | 12:00 | `lista.mp4` | Lista (3 sytuacje) | która z tych sytuacji to Ty? 1, 2 czy 3? 👇 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #pies #basen #siłownia #samochód |
-| Dzień 3 (czw 05.11) | 20:00 | `storytime_historia.mp4` | Storytime na napisach (POV) | POV, który zna każdy po siłce Link w bio 👆 #siłownia #gym #POV #auto #trening |
-| Dzień 4 (pt 06.11) | 07:30 | `zapach.mp4` | Nieznany problem | skąd ten zapach w aucie? 🤔 Link w bio 👆 #auto #samochód #siłownia #zapach #lifehack |
-| Dzień 4 (pt 06.11) | 19:00 | `basen.mp4` | Problem z życia – basen | po basenie zawsze to samo 🏊 Napisz SUCHY w komentarzu, wyślę link 👇 #basen #pływanie #auto #samochód #sport |
-| Dzień 5 (sob 07.11) | 12:30 | `zestaw.mp4` | Zestaw 2 szt. (kierowca + pasażer) | trenujecie we dwoje? 👫 przy 2 sztukach dostawa gratis Link w bio 👆 #siłownia #para #gym #auto #trening |
-| Dzień 5 (sob 07.11) | 20:30 | `storytime_test.mp4` | Storytime na napisach (odkrycie) | nie, nie zwariowałem 💧 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #test #samochód #siłownia #lifehack |
-| Dzień 6 (niedz 08.11) | 10:00 | `prezent.mp4` | Prezent (druga persona) | pomysł na prezent dla kogoś, kto żyje siłownią 🎁 Link w bio 👆 #prezent #pomysłnaprezent #siłownia #gym #święta |
-| Dzień 6 (niedz 08.11) | 19:00 | `odp_pasuje.mp4` | Odpowiedź na obiekcję (wymiary) | pasuje do Twojego auta? sprawdź 👇 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #motoryzacja #siłownia #gym |
-| Dzień 7 (pon 09.11) | 11:00 | `storytime_blad.mp4` | Storytime na napisach (kontrast) | tak robi większość… i dalej ma mokry fotel Link w bio 👆 #siłownia #auto #gym #trening #samochód |
-| Dzień 7 (pon 09.11) | 19:30 | `suchyfotel_hook2.mp4` | Lektor klasyczny – test formatu | test: woda vs fotel 💧 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #siłownia #test #lifehack |
+| Dzień 1 (wt 03.11) | 07:30 | `final/test_lektor.mp4` | Zaskakujące odkrycie (ciekawość) | tak, to było specjalnie 💧 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #siłownia #lifehack #test |
+| Dzień 1 (wt 03.11) | 13:00 | `final/historia_lektor.mp4` | Problem z życia (POV) | kto wsiada do auta prosto po treningu, ten wie 😮‍💨 Link w bio 👆 #siłownia #gym #auto #POV #trening |
+| Dzień 1 (wt 03.11) | 19:30 | `final/blad_lektor.mp4` | Błędny sposób (kontrast) | ręcznik z łazienki to nie jest rozwiązanie 😅 Napisz SUCHY w komentarzu, wyślę link 👇 #siłownia #auto #gym #trening #samochód |
+| Dzień 2 (śr 04.11) | 08:00 | `final/pies.mp4` | Problem z życia – właściciel psa | każdy psiarz zna ten widok po spacerze w deszczu 🐕 Link w bio 👆 #pies #psy #golden #auto #spacer |
+| Dzień 2 (śr 04.11) | 18:30 | `final/odp_zjezdza.mp4` | Odpowiedź na obiekcję | najczęstsza obawa przy ręczniku na fotel 👇 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #siłownia #gym #trening |
+| Dzień 3 (czw 05.11) | 12:00 | `final/lista.mp4` | Lista (3 sytuacje) | która z tych sytuacji to Ty? 1, 2 czy 3? 👇 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #pies #basen #siłownia #samochód |
+| Dzień 3 (czw 05.11) | 20:00 | `final/storytime_historia.mp4` | Storytime na napisach (POV) | POV, który zna każdy po siłce Link w bio 👆 #siłownia #gym #POV #auto #trening |
+| Dzień 4 (pt 06.11) | 07:30 | `final/zapach.mp4` | Nieznany problem | skąd ten zapach w aucie? 🤔 Link w bio 👆 #auto #samochód #siłownia #zapach #lifehack |
+| Dzień 4 (pt 06.11) | 19:00 | `final/basen.mp4` | Problem z życia – basen | po basenie zawsze to samo 🏊 Napisz SUCHY w komentarzu, wyślę link 👇 #basen #pływanie #auto #samochód #sport |
+| Dzień 5 (sob 07.11) | 12:30 | `final/zestaw.mp4` | Zestaw 2 szt. (kierowca + pasażer) | trenujecie we dwoje? 👫 przy 2 sztukach dostawa gratis Link w bio 👆 #siłownia #para #gym #auto #trening |
+| Dzień 5 (sob 07.11) | 20:30 | `final/storytime_test.mp4` | Storytime na napisach (odkrycie) | nie, nie zwariowałem 💧 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #test #samochód #siłownia #lifehack |
+| Dzień 6 (niedz 08.11) | 10:00 | `final/prezent.mp4` | Prezent (druga persona) | pomysł na prezent dla kogoś, kto żyje siłownią 🎁 Link w bio 👆 #prezent #pomysłnaprezent #siłownia #gym #święta |
+| Dzień 6 (niedz 08.11) | 19:00 | `final/odp_pasuje.mp4` | Odpowiedź na obiekcję (wymiary) | pasuje do Twojego auta? sprawdź 👇 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #motoryzacja #siłownia #gym |
+| Dzień 7 (pon 09.11) | 11:00 | `final/storytime_blad.mp4` | Storytime na napisach (kontrast) | tak robi większość… i dalej ma mokry fotel Link w bio 👆 #siłownia #auto #gym #trening #samochód |
+| Dzień 7 (pon 09.11) | 19:30 | `final/suchyfotel_hook2.mp4` | Lektor klasyczny – test formatu | test: woda vs fotel 💧 Napisz SUCHY w komentarzu, wyślę link 👇 #auto #samochód #siłownia #test #lifehack |
 
 ## Odpowiedź w wiadomości prywatnej (gdy ktoś napisze SUCHY)
 > Hej! Tu link: suchyfotel.pl 🙌 Ręcznik 159 zł, a przy 2 sztukach (kierowca + pasażer) dostawa gratis. Masz 30 dni na zwrot, a jeśli spód przepuści wodę – oddajemy pieniądze.
