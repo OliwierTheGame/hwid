@@ -14,6 +14,7 @@ CAP_Y = {"b1": 1250, "p15": 1250, "p11": 1300}
 # maks. długość czystego fragmentu źródła (dalej wideo się psuje) – dłuższa scena = zwolnienie
 MAXSRC = {"p11": 2.4}
 CAP_TEXT = {
+    ("reklama", 7): "Suchy Fotel|2 szt. =|dostawa gratis|kliknij przycisk",
     ("basen", 4): "Waży 200 g,|zmieścisz w torbie.|Link w bio.",
     ("odp_pasuje", 1): "Ma 142 × 52 cm|i pasuje na|większość foteli.",
     ("odp_pasuje", 2): "Jeden rozmiar,|200 g.",
@@ -22,6 +23,16 @@ CAP_TEXT = {
     ("lista", 2): "3: basen.",
 }
 CLIPS = {
+    "reklama": [
+        ("h3", 0.0, "Wsiadasz do auta prosto po siłowni.", "POV: prosto po siłce"),
+        ("h1", 0.3, "A rano fotel dalej mokry.", None),
+        ("n1", 1.2, "Zwykły ręcznik z łazienki? Zjeżdża przy każdym ruchu.", None),
+        ("n2", 2.0, "A pot i tak przechodzi na tapicerkę.", None),
+        ("b1", 0.0, "Ten ma kaptur na zagłówek. Nic nie zjeżdża.", None),
+        ("b2", 0.0, "Góra wciąga pot.", None),
+        ("b3", 0.3, "A pod spodem? Sucho.", None),
+        ("b5", 0.0, "Nazywa się Suchy Fotel. Przy dwóch sztukach dostawa gratis. Kliknij przycisk poniżej.", "2 SZT. = DOSTAWA GRATIS"),
+    ],
     "historia_lektor": [
         ("h3", 0.0, "Wsiadasz do auta prosto po siłowni.", "POV: prosto po siłce"),
         ("h1", 0.3, "A rano fotel dalej mokry.", None),

@@ -6,7 +6,7 @@ import os, random, subprocess
 ROOT = os.path.dirname(os.path.abspath(__file__))
 G = os.path.join(ROOT, "gotowe"); F = os.path.join(G, "final"); os.makedirs(F, exist_ok=True)
 MUZ = {
-    "chill": ["historia_lektor", "test_lektor", "blad_lektor", "odp_zjezdza", "odp_pasuje", "lista",
+    "chill": ["reklama", "historia_lektor", "test_lektor", "blad_lektor", "odp_zjezdza", "odp_pasuje", "lista",
               "storytime_historia", "storytime_test", "storytime_blad"],
     "ciepla": ["pies", "basen", "prezent", "zestaw", "suchyfotel_hook1"],
     "spokojna": ["zapach", "suchyfotel_hook2", "suchyfotel_hook3"],
